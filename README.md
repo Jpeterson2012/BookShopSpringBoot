@@ -1,0 +1,1 @@
+REST bookshop application built with Spring Boot
